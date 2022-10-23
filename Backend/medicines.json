@@ -1,0 +1,28 @@
+{
+    "medicine1" : {
+       "name" : "Paracetamol",
+       "Expiry" : "10/24",
+       "id": 1
+    },
+    "medicine2" : {
+        "name" : "Dolo 650",
+        "Expiry" : "10/24",
+        "id": 2
+     },
+    "medicine3" : {
+        "name" : "Citrizin",
+        "Expiry" : "10/24",
+        "id": 3
+     },
+    "medicine4" : {
+        "name" : "Paracetamol",
+        "Expiry" : "10/24",
+        "id": 4
+     },
+    "medicine5" : {
+        "name" : "Citrizin 1",
+        "Expiry" : "10/24",
+        "id": 5
+     }
+
+}
