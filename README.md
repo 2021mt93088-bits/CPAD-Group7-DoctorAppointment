@@ -1,4 +1,4 @@
-# CPAD-Group7-DoctorAppointment
+# CPAD-Group7-OnlineMedinedApp
 
 Clone the code repo!
 
